@@ -14,3 +14,17 @@
     }
 }
   
+#navbar header{
+  position: absolute;
+  top: 15px;
+  left: 310px;
+
+}
+
+.main-section
+  {
+    position: absolute;
+    top: 50px;
+    left: 310px;
+}
+
